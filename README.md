@@ -1,17 +1,12 @@
 # LLM-GPT-GEMINI-
 2026학년도 수능 국어 문항을 기반으로 GPT와 Gemini의 문제 해결 성능을 체계적으로 비교·분석하는 프로젝트
 
-## ⭐ Support
-If this project was useful to you, a Star(★) would be greatly appreciated.
-프로젝트가 도움이 되었다면 Star(★)로 응원해주세요.
-
 # LLM-GPT-GEMINI: 2026학년도 수능 국어 기반 LLM 성능 비교 연구
 
 본 프로젝트는 AI 활용 확대에 따라 대표적인 거대 언어 모델(LLM)인 GPT(OpenAI) 와  Gemini(Google) 의 2026학년도 대학수학능력시험 국어 영역 문제 해결 능력을  
 정량적·정성적으로 비교·분석하기 위해 수행되었다.
 
-단순 정답률 비교를 넘어서, 세 가지 프롬프트 엔지니어링 전략(A, B, C) 이  
-모델의 추론 방식, 정답률, 오류 양상에 어떤 영향을 주는지 체계적으로 검증하였다.
+단순 정답률 비교를 넘어서, 세 가지 프롬프트 엔지니어링 전략(A, B, C) 이 모델의 추론 방식, 정답률, 오류 양상에 어떤 영향을 주는지 체계적으로 검증하였다.
 
 ---
 
@@ -102,3 +97,7 @@ If this project was useful to you, a Star(★) would be greatly appreciated.
    추론 강제 지시가 항상 좋은 것은 아니다.
 
 ---
+
+## ⭐ Support
+If this project was useful to you, a Star(★) would be greatly appreciated.
+프로젝트가 도움이 되었다면 Star(★)로 응원해주세요.
