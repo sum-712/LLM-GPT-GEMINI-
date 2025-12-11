@@ -7,8 +7,7 @@ If this project was useful to you, a Star(★) would be greatly appreciated.
 
 # LLM-GPT-GEMINI: 2026학년도 수능 국어 기반 LLM 성능 비교 연구
 
-본 프로젝트는 AI 활용 확대에 따라 대표적인 거대 언어 모델(LLM)인 GPT(OpenAI) 와  
-Gemini(Google) 의 2026학년도 대학수학능력시험 국어 영역 문제 해결 능력을  
+본 프로젝트는 AI 활용 확대에 따라 대표적인 거대 언어 모델(LLM)인 GPT(OpenAI) 와  Gemini(Google) 의 2026학년도 대학수학능력시험 국어 영역 문제 해결 능력을  
 정량적·정성적으로 비교·분석하기 위해 수행되었다.
 
 단순 정답률 비교를 넘어서, 세 가지 프롬프트 엔지니어링 전략(A, B, C) 이  
